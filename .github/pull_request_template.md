@@ -1,34 +1,16 @@
-<!--
-Thank you for contributing to **OceanBase**! 
-Please read the [How to Contribute](https://github.com/oceanbase/oceanbase/wiki/how_to_contribute) document **BEFORE** filling this PR.
+<!-- 请在以上位置添加 Pull request 描述 -->
+<!-- Please add Pull request description above -->
 
-**If this pull request have a significant impact, please make sure you have discussed with OceanBase group.**
--->
+---
 
-### Task Description
+请确认勾选以下复选框，声明本人已知悉对应的提交要求。
+(Please make sure to check the following box to declare that I am aware of the corresponding submission requirements.)
 
-<!--
-The problem you resolved by this pull request.
-You can link the issue via the "close #xxx" or "ref #xxx".
--->
+- [ ] 本人已完整阅读并确认同意了本赛题的最新提交要求
+      (I have read in full and confirm that I agree to the latest Submission Requirements for this challenge),
+      [本赛题最新提交要求(The latest Submission Requirements)](https://rvspoc.org/S2423/#提交说明)
 
-### Solution Description
 
-<!-- Please clearly and consice descipt the solution. -->
+RISC-V 软件移植及优化锦标赛
 
-### Passed Regressions
-
-<!-- Unittest, mysql test or test it manually? -->
-
-### Upgrade Compatibility
-
-<!-- Please make sure this is compatible with old version or you should give us upgrading solution. -->
-
-### Other Information
-
-<!-- Any information helping to review this pull request. -->
-
-### Release Note
-<!--
-A concise release note can help users to understand how your pull request makes difference.
--->
+RISC-V Software Porting and Optimization Championship
